@@ -5,3 +5,4 @@
 * Adjust font face and size 
 * Adjust margins
 * Replace long words with shorter synonyms
+* Replace month names with numbers
