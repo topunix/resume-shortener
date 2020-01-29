@@ -1,5 +1,6 @@
 # Resume Shortner: to-do list
 
+* Add resume samples for testing
 * Remove blank pages
 * Remove excessive blank lines
 * Remove excessive white space
