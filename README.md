@@ -1,5 +1,7 @@
 # Resume Shortner: to-do list
 
+* Language detection (English required)
+* Add resume samples for testing
 * Remove blank pages
 * Remove excessive blank lines
 * Remove excessive white space
