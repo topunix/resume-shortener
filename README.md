@@ -1,3 +1,5 @@
+# on hold until revenue model figured out
+
 # Resume Shortner: to-do list
 
 * Language detection (English required)
