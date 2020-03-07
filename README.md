@@ -1,5 +1,8 @@
 # on hold until revenue model figured out
 
+* Charge $1 after 2 or 3 uses (use a/b testing). Initially free
+* Have options (checkboxes) so the user is encouraged to keep using
+
 # Resume Shortner: to-do list
 
 * Language detection (English required)
