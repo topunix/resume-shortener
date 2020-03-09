@@ -5,10 +5,10 @@
 
 * __One Model__
 
-Shortening is free (always)\
-Download screen has a resume blaster offer ($5?)\
-You create your own resume blaster service (uploads resume to recruiters/websites)\
-Send receipt to buyers. 
+:white_check_mark: Shortening is free (always)\
+:white_check_mark: Download screen has a resume blaster offer ($5?)\
+:white_check_mark: You create your own resume blaster service (uploads resume to recruiters/websites)\
+:white_check_mark: Send receipt to buyers. 
 
 # Resume Shortner: to-do list
 
