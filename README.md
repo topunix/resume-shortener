@@ -1,4 +1,4 @@
-* __Business Model__
+# Business Model
 
 :white_check_mark: Shortening is free (always)\
 :white_check_mark: Download screen has a resume blaster offer ($5?)\
