@@ -17,8 +17,9 @@
 * Replace long words with shorter synonyms
 * Replace month names with numbers
 * Use common abbreviations (Master of Arts == MA)
-
 * Design as mobile app (andriod/ios)
+
+# Blaster: to-do list
 
 
 
