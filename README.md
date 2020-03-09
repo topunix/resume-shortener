@@ -1,9 +1,4 @@
-# on hold until revenue model figured out
-
-* Charge $1 after 2 or 3 uses (use a/b testing). Initially free
-* Have options (checkboxes) so the user is encouraged to keep using
-
-* __One Model__
+* __Business Model__
 
 :white_check_mark: Shortening is free (always)\
 :white_check_mark: Download screen has a resume blaster offer ($5?)\
