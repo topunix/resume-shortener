@@ -23,12 +23,5 @@
 
 * Resume-rabbit has patents, so you must target individual recruiters
 * Consider emailing resumes, instead of uploading to websites
-* Consider targeting smaller recruiters (easier to deal with). Must reach out to them.
-
-
-
-
-
-
-
-
+* If you email, you should 'cc' the applicant?
+* Consider targeting smaller recruiters (easier to deal with). Must reach out to them. Should be generalists. 
