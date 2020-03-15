@@ -21,7 +21,8 @@
 
 # Blaster: to-do list
 
-* Resume-rabbit has patents, so you must target individual recruiters
-* Consider emailing resumes, instead of uploading to websites
-* If you email, you should 'cc' the applicant?
-* Consider targeting smaller recruiters (easier to deal with). Must reach out to them. Should be generalists. 
+* Go with affiliate marketing. It's easier for you. 
+* ~~Resume-rabbit has patents, so you must target individual recruiters~~
+* ~~Consider emailing resumes, instead of uploading to websites~~
+* ~~If you email, you should 'cc' the applicant?~~
+* ~~Consider targeting smaller recruiters (easier to deal with). Must reach out to them. Should be generalists.~~ 
