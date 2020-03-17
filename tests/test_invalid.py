@@ -12,7 +12,8 @@ def test_char_count():
 
 
 def test_page_length():
-    shell_command = "unzip -p 'sample.docx' docProps/app.xml | grep -oP '(?<=\<Pages\>).*(?=\</Pages\>)'"
+    onepage = sample_dir + 'onepage.docx'
+    shell_command = f"unzip -p '{onepage}' docProps/app.xml | grep -oP '(?<=\<Pages\>).*(?=\</Pages\>)'"
 
 
 
