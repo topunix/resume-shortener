@@ -4,7 +4,7 @@ import subprocess
 
 sample_dir = './samples/invalid/'
 
-def test_char_count():
+def test_min_char_count():
     # extract text
     text = docx2txt.process(sample_dir + "shortresume.docx")
     value = len(text)
