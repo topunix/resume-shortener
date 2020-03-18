@@ -7,15 +7,15 @@ from docx.shared import Inches
 samples = './samples/valid/'
 
 #Open the document
-document = Document(args.inputFile)
+document = docx.Document(samples + 'resume.docx')
 
 #changing the page margins
 sections = document.sections
 for section in sections:
-    section.top_margin = Cm(margin)
-    section.bottom_margin = Cm(margin)
-    section.left_margin = Cm(margin)
-    section.right_margin = Cm(margin)
+    section.top_margin = Inches(.25)
+    section.bottom_margin = Inches(.25)
+    section.left_margin = Inches(.25)
+    section.right_margin = Inches(.25)
 
-document.save(args.outputFile)
+document.save('/c/docs/resume2.docx')
 
