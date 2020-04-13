@@ -1,3 +1,14 @@
+# Launching app
+
+    $ source env/bin/activate
+    $ pip install -r requirements.txt
+
+    $ export FLASK_APP=myapp
+    $ export FLASK_ENV=development # enables debug mode
+    $ python3 main.py
+
+Navigate to Home page http://localhost:5000
+
 # Business Model
 
 :white_check_mark: Shortening is free (always)\
