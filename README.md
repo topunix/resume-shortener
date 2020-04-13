@@ -1,5 +1,9 @@
 # Launching app
 
+    $ python3 shortener.py resume.docx
+
+## Old way -- not going to use because might have to use react native /nodejs instead
+
     $ source env/bin/activate
     $ pip install -r requirements.txt
 
