@@ -18,6 +18,10 @@ https://www.bignox.com/
 
 https://stackoverflow.com/questions/34329715/how-to-add-icons-to-react-native-app
 
+## How to publish app to Google Play store
+
+https://support.google.com/googleplay/android-developer/answer/6334282?hl=en
+
 # Launching app (python)
 
     $ python3 shortener.py resume.docx
