@@ -1,3 +1,30 @@
+import os
+import re
+import sys
+import docx
+from docx.shared import Inches, Pt
+
+filename = sys.argv[-1]
+
+#
+# modify-fonts, modify-margins, delete-sections, remove-blank-pages
+#
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+'''
 from docx import Document
 from docx.shared import Inches
 
@@ -42,3 +69,4 @@ for qty, id, desc in records:
 document.add_page_break()
 
 document.save('demo.docx')
+'''
