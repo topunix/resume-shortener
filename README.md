@@ -14,8 +14,11 @@ https://www.toptal.com/react-native/react-native-for-android-development
 
 https://www.bignox.com/
 
+## How to add icons to React Native app
 
-# Launching app
+https://stackoverflow.com/questions/34329715/how-to-add-icons-to-react-native-app
+
+# Launching app (python)
 
     $ python3 shortener.py resume.docx
 
