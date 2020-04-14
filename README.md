@@ -1,3 +1,17 @@
+# Build with React Native for Android
+
+## File Uploader with React Native
+
+https://malcoded.com/posts/react-file-upload/
+
+https://github.com/LukasMarx/react-file-upload
+
+
+
+
+
+
+
 # Launching app
 
     $ python3 shortener.py resume.docx
