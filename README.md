@@ -6,10 +6,13 @@ https://malcoded.com/posts/react-file-upload/
 
 https://github.com/LukasMarx/react-file-upload
 
+## Beginning React Native for Android
 
+https://www.toptal.com/react-native/react-native-for-android-development
 
+## Android emulator for Windows 10 (free)
 
-
+https://www.bignox.com/
 
 
 # Launching app
