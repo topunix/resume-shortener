@@ -11,7 +11,7 @@ It is intended to be run on the command line, on Linux/Unix and Windows.
 Motivation
 -------------
 
-Laszlo Bock, senior VP at Google:
+A senior VP at Google:
 ```
 A good rule of thumb is one page of resume for every ten years of work experience. 
 Hard to fit it all in, right? But a three or four or ten page resume simply won't get read closely.
