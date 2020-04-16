@@ -1,3 +1,1 @@
-Flask==1.0.3
-Werkzeug==0.15.4
 python-docx
