@@ -16,3 +16,4 @@ To run:
 python shortener.py resume.docx
 ```
 
+This will produce a docx file (resume-short.docx) in the current working directory. The original file is untouched.
