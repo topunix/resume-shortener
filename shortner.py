@@ -4,7 +4,17 @@ import sys
 import docx
 from docx.shared import Inches, Pt
 
-filename = sys.argv[-1]
+if len(sys.argv) != 2:
+    sys.exit("Usage: python " + sys.argv[0] + " resume.docx")
+
+filename = sys.argv[1]
+
+# Test if file is a docx file.
+try:
+    docx.Document(filename)
+except:
+    sys.exit(filename + " is not a valid docx file.")
+
 
 #
 # modify-fonts, modify-margins, delete-sections, remove-blank-pages
