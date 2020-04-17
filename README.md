@@ -2,7 +2,7 @@ shortener.py
 --------------
 This is a Python script which shortens resumes in Word XML format (docx). It shortens resumes by:
 
-- Removing whitespace before and after the resume
+- Removing extraneous whitespace before and after the resume
 - Shrinking the margins and font
 - Deleting overused phrases ("References available upon request.")
 
@@ -31,4 +31,4 @@ To run:
 python shortener.py resume.docx
 ```
 
-This will produce a docx file (resume<b>-short</b>.docx) in the current working directory. The original file is untouched.
+This will produce a docx file (resume<b>-short</b>.docx) in the same directory as the original file, which is untouched.
