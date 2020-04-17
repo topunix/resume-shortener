@@ -97,4 +97,5 @@ delete_extra_spaces()
 delete_overused_phrases()
 
 # save file
-doc.save(filename + '-short')
+filename = re.sub(r"\.docx$", "", filename, re.IGNORECASE)
+doc.save(filename + '-short.docx')
