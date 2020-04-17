@@ -14,12 +14,21 @@ Motivation
 According to Google, a good rule of thumb is one page of resume for every ten years of work experience. 
 Hard to fit it all in, right? But a three or four or ten page resume simply won't get read closely.
 
+Installation
+--------------
+
+After cloning the repo, you need to run:
+
+```
+pip install -r requirements.txt
+```
+
 Usage
--------------
+--------------
 
 To run:
 ```
 python shortener.py resume.docx
 ```
 
-This will produce a docx file (resume-short.docx) in the current working directory. The original file is untouched.
+This will produce a docx file (resume**-short**.docx) in the current working directory. The original file is untouched.
